@@ -1,0 +1,21 @@
+.add-color{
+	color: blue;
+}
+
+.hulkify{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.add-border{
+	border: 2px solid green;
+}
+
+.add-rounding{
+	border: 2px solid green;
+	border-radius: 10px;
+}
+
+button{
+	display: block;
+}
